@@ -5,11 +5,11 @@ Simple, small-scope projects
 - Rock, paper, scissors game
 
 ### WIP :
+- Codebreakers (pain)
 
 ### Project Ideas :
 - Blackjack
 - High vs Low
 - Bank management system
 - Password validator
-- Codebreakers
 - Lockpicking 
